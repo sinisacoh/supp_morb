@@ -1,0 +1,182 @@
+***************************************************************************
+  Trying to read 16 hamiltonians and positions.
+     Read in case with   Nx =   10    Ny =   10
+     Read in case with   Nx =   12    Ny =   12
+     Read in case with   Nx =   14    Ny =   14
+     Read in case with   Nx =   16    Ny =   16
+     Read in case with   Nx =   18    Ny =   18
+     Read in case with   Nx =   20    Ny =   20
+     Read in case with   Nx =   22    Ny =   22
+     Read in case with   Nx =   24    Ny =   24
+     Read in case with   Nx =   26    Ny =   26
+     Read in case with   Nx =   28    Ny =   28
+     Read in case with   Nx =   30    Ny =   30
+     Read in case with   Nx =   32    Ny =   32
+     Read in case with   Nx =   34    Ny =   34
+     Read in case with   Nx =   36    Ny =   36
+     Read in case with   Nx =   38    Ny =   38
+     Read in case with   Nx =   40    Ny =   40
+***************************************************************************
+
+ 
+
+===========================================================================
+  Consistency checks
+   Nx =   10    Ny =   10
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.22
+     Max imag part of H_ij 0.035
+     The furthest hopping element is  1.0
+   Nx =   12    Ny =   12
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.22916667
+     Max imag part of H_ij 0.0375
+     The furthest hopping element is  1.0
+   Nx =   14    Ny =   14
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.23469388
+     Max imag part of H_ij 0.0392857143
+     The furthest hopping element is  1.0
+   Nx =   16    Ny =   16
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.23828125
+     Max imag part of H_ij 0.040625
+     The furthest hopping element is  1.0
+   Nx =   18    Ny =   18
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.24074074
+     Max imag part of H_ij 0.0416666667
+     The furthest hopping element is  1.0
+   Nx =   20    Ny =   20
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.2425
+     Max imag part of H_ij 0.0425
+     The furthest hopping element is  1.0
+   Nx =   22    Ny =   22
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.24380165
+     Max imag part of H_ij 0.0431818182
+     The furthest hopping element is  1.0
+   Nx =   24    Ny =   24
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.24479167
+     Max imag part of H_ij 0.04375
+     The furthest hopping element is  1.0
+   Nx =   26    Ny =   26
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.24556213
+     Max imag part of H_ij 0.0442307692
+     The furthest hopping element is  1.0
+   Nx =   28    Ny =   28
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.24617347
+     Max imag part of H_ij 0.0446428571
+     The furthest hopping element is  1.0
+   Nx =   30    Ny =   30
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.24666667
+     Max imag part of H_ij 0.045
+     The furthest hopping element is  1.0
+   Nx =   32    Ny =   32
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.24707031
+     Max imag part of H_ij 0.0453125
+     The furthest hopping element is  1.0
+   Nx =   34    Ny =   34
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.24740484
+     Max imag part of H_ij 0.0455882353
+     The furthest hopping element is  1.0
+   Nx =   36    Ny =   36
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.24768519
+     Max imag part of H_ij 0.0458333333
+     The furthest hopping element is  1.0
+   Nx =   38    Ny =   38
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.24792244
+     Max imag part of H_ij 0.0460526316
+     The furthest hopping element is  1.0
+   Nx =   40    Ny =   40
+     H_ij with non-zero imag part is at most 1.5  away from the edge.
+     Max real part of H_ij 1.248125
+     Max imag part of H_ij 0.04625
+     The furthest hopping element is  1.0
+===========================================================================
+
+ 
+
+===========================================================================
+  Computing orbital magnetization
+  WITHOUT imaginary part of H
+   Nx =   10    Ny =   10
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.10000000
+   Nx =   12    Ny =   12
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.10416667
+   Nx =   14    Ny =   14
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.10714286
+   Nx =   16    Ny =   16
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.10937500
+   Nx =   18    Ny =   18
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11111111
+   Nx =   20    Ny =   20
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11250000
+   Nx =   22    Ny =   22
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11363636
+   Nx =   24    Ny =   24
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11458333
+   Nx =   26    Ny =   26
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11538462
+   Nx =   28    Ny =   28
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11607143
+   Nx =   30    Ny =   30
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11666667
+   Nx =   32    Ny =   32
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11718750
+   Nx =   34    Ny =   34
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11764706
+   Nx =   36    Ny =   36
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11805556
+   Nx =   38    Ny =   38
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11842105
+   Nx =   40    Ny =   40
+      orbital mag  = 0.00000000  mu_B   occ/N^2 = 0.11875000
+===========================================================================
+
+ 
+
+===========================================================================
+  Computing orbital magnetization
+   Nx =   10    Ny =   10
+      orbital mag  = 0.42879484  mu_B   occ/N^2 = 0.10000000
+   Nx =   12    Ny =   12
+      orbital mag  = 0.70464671  mu_B   occ/N^2 = 0.10416667
+   Nx =   14    Ny =   14
+      orbital mag  = 1.03448069  mu_B   occ/N^2 = 0.10714286
+   Nx =   16    Ny =   16
+      orbital mag  = 1.41376142  mu_B   occ/N^2 = 0.10937500
+   Nx =   18    Ny =   18
+      orbital mag  = 1.84019866  mu_B   occ/N^2 = 0.11111111
+   Nx =   20    Ny =   20
+      orbital mag  = 2.31222105  mu_B   occ/N^2 = 0.11250000
+   Nx =   22    Ny =   22
+      orbital mag  = 2.82903686  mu_B   occ/N^2 = 0.11363636
+   Nx =   24    Ny =   24
+      orbital mag  = 3.39008194  mu_B   occ/N^2 = 0.11458333
+   Nx =   26    Ny =   26
+      orbital mag  = 3.99509281  mu_B   occ/N^2 = 0.11538462
+   Nx =   28    Ny =   28
+      orbital mag  = 4.64386687  mu_B   occ/N^2 = 0.11607143
+   Nx =   30    Ny =   30
+      orbital mag  = 5.33632973  mu_B   occ/N^2 = 0.11666667
+   Nx =   32    Ny =   32
+      orbital mag  = 6.07241517  mu_B   occ/N^2 = 0.11718750
+   Nx =   34    Ny =   34
+      orbital mag  = 6.85211525  mu_B   occ/N^2 = 0.11764706
+   Nx =   36    Ny =   36
+      orbital mag  = 7.67541519  mu_B   occ/N^2 = 0.11805556
+   Nx =   38    Ny =   38
+      orbital mag  = 8.54232937  mu_B   occ/N^2 = 0.11842105
+   Nx =   40    Ny =   40
+      orbital mag  = 9.45286152  mu_B   occ/N^2 = 0.11875000
+===========================================================================
